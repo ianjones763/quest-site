@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="147px" viewBox="0 0 1024 147" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>coin-bg-up</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(0.000000, -202.000000)">
+            <g id="coin-bg-up" transform="translate(0.000000, 203.000000)">
+                <g id="pin-bg-up" fill="#B3DADE" stroke="#B3DADE">
+                    <path d="M0,0 L1024,0 L1024,79.6556117 C961.541029,122.271861 889.269451,144.045185 807.185265,144.975584 C684.058987,146.371182 631.259222,87.48172 512,85.4589731 C392.740778,83.4362262 381.906812,112.702982 256.99675,113.681317 C173.723375,114.333541 88.0577919,106.262808 0,89.4691185 L0,0 Z" id="Path" transform="translate(512.000000, 72.500000) scale(1, -1) translate(-512.000000, -72.500000) "></path>
+                </g>
+                <g id="Group" opacity="0.5" transform="translate(28.000000, 62.000000)">
+                    <circle id="Oval" fill="#FEA400" cx="29.5" cy="31.5" r="29.5"></circle>
+                    <circle id="Oval" fill="#FEA400" opacity="0.755487351" cx="31" cy="30" r="30"></circle>
+                    <text id="$" font-family="Arial-BoldMT, Arial" font-size="36" font-weight="bold" fill="#67B6BD">
+                        <tspan x="19.9892578" y="45">$</tspan>
+                    </text>
+                </g>
+                <g id="Group" opacity="0.5" transform="translate(830.000000, 48.000000)">
+                    <circle id="Oval" fill="#FEA400" cx="29.5" cy="31.5" r="29.5"></circle>
+                    <circle id="Oval" fill="#FEA400" opacity="0.755487351" cx="31" cy="30" r="30"></circle>
+                    <text id="$" font-family="Arial-BoldMT, Arial" font-size="36" font-weight="bold" fill="#67B6BD">
+                        <tspan x="19.9892578" y="45">$</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
