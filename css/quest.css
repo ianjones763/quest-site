@@ -67,7 +67,7 @@ hr {
 }
 
 /* mobile */
-@media screen and (min-width: 375px) and (max-width: 480px) {
+@media screen and (max-width: 480px) {
     .tablet-spacing {
         display: none;
     }
@@ -201,7 +201,7 @@ hr {
 }
 
 /* mobile */
-@media screen and (min-width: 375px) and (max-width: 480px) {
+@media screen and (max-width: 480px) {
     .title .logo img {
         height:10%; 
     }
@@ -273,7 +273,7 @@ hr {
 }
 
 /* mobile */
-@media screen and (min-width: 375px) and (max-width: 480px) {
+@media screen and (max-width: 480px) {
     .problem .problem-container {
         padding-top: 50px;
         display: flex;
@@ -326,7 +326,7 @@ hr {
 }
 
 /* mobile */
-@media screen and (min-width: 375px) and (max-width: 480px) {
+@media screen and (max-width: 480px) {
     .screen-section {
         display: flex;
         flex-direction: column;
@@ -387,7 +387,7 @@ hr {
 }
 
 /* mobile */
-@media screen and (min-width: 375px) and (max-width: 480px) {
+@media screen and (max-width: 480px) {
     #footer {
         flex-direction: column;
         padding-top: 20px;
