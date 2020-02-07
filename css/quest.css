@@ -162,7 +162,7 @@ hr {
 }
 
 .overview-bg {
-    width:70%; 
+    width: 100%; 
     opacity:0;
     margin: auto;
 }
